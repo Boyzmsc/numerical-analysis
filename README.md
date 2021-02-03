@@ -1,12 +1,12 @@
 # Momentum Project
 
 
-## 1. Momentum 최적화 알고리즘의 개요 및 동작원리
+### 1. Momentum 최적화 알고리즘의 개요 및 동작원리
 
 <img width="416" alt="모멘텀" src="https://user-images.githubusercontent.com/28584213/106716361-b1649b00-6641-11eb-8d2c-0462905f11cf.png">
 
 
-## 2. Tensorflow로 구현한 Momentum 동작 코드와 단위 테스트 코드
+### 2. Tensorflow로 구현한 Momentum 동작 코드와 단위 테스트 코드
 
 #### 1) testTM\_#1.py
 
@@ -27,7 +27,7 @@
 
 
 
-## 3. Momentum 알고리즘의 구체화
+### 3. Momentum 알고리즘의 구체화
 
 
 #### 1) Source Code
@@ -35,7 +35,7 @@
 * momentum.py
 
 
-## 4. Momentum과 GD(경사하강법) 구체화 모듈의 단위 테스트 작업
+### 4. Momentum과 GD(경사하강법) 구체화 모듈의 단위 테스트 작업
 
 #### 1) testM.py
 
@@ -47,7 +47,7 @@
 * testM.py
 
 
-## 5. Momentum 알고리즘 성능 검증
+### 5. Momentum 알고리즘 성능 검증
 
 로젠브룩 함수를 이용해 두 알고리즘의 결과를 비교함으로써 성능을 검증
 
